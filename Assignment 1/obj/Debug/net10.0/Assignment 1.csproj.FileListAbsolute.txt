@@ -1,0 +1,15 @@
+D:\Projects\CodeCamp\Assignment 1\bin\Debug\net10.0\Assignment 1.exe
+D:\Projects\CodeCamp\Assignment 1\bin\Debug\net10.0\Assignment 1.deps.json
+D:\Projects\CodeCamp\Assignment 1\bin\Debug\net10.0\Assignment 1.runtimeconfig.json
+D:\Projects\CodeCamp\Assignment 1\bin\Debug\net10.0\Assignment 1.dll
+D:\Projects\CodeCamp\Assignment 1\bin\Debug\net10.0\Assignment 1.pdb
+D:\Projects\CodeCamp\Assignment 1\obj\Debug\net10.0\Assignment 1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\CodeCamp\Assignment 1\obj\Debug\net10.0\Assignment 1.AssemblyInfoInputs.cache
+D:\Projects\CodeCamp\Assignment 1\obj\Debug\net10.0\Assignment 1.AssemblyInfo.cs
+D:\Projects\CodeCamp\Assignment 1\obj\Debug\net10.0\Assignment 1.csproj.CoreCompileInputs.cache
+D:\Projects\CodeCamp\Assignment 1\obj\Debug\net10.0\Assignment 1.dll
+D:\Projects\CodeCamp\Assignment 1\obj\Debug\net10.0\refint\Assignment 1.dll
+D:\Projects\CodeCamp\Assignment 1\obj\Debug\net10.0\Assignment 1.pdb
+D:\Projects\CodeCamp\Assignment 1\obj\Debug\net10.0\Assignment 1.genruntimeconfig.cache
+D:\Projects\CodeCamp\Assignment 1\obj\Debug\net10.0\ref\Assignment 1.dll
+D:\Projects\CodeCamp\Assignment 1\obj\Debug\net10.0\Assignment 1.sourcelink.json
