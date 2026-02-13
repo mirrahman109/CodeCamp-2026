@@ -1,0 +1,15 @@
+D:\Projects\CodeCamp\Assignment 2\bin\Debug\net10.0\Assignment 2.exe
+D:\Projects\CodeCamp\Assignment 2\bin\Debug\net10.0\Assignment 2.deps.json
+D:\Projects\CodeCamp\Assignment 2\bin\Debug\net10.0\Assignment 2.runtimeconfig.json
+D:\Projects\CodeCamp\Assignment 2\bin\Debug\net10.0\Assignment 2.dll
+D:\Projects\CodeCamp\Assignment 2\bin\Debug\net10.0\Assignment 2.pdb
+D:\Projects\CodeCamp\Assignment 2\obj\Debug\net10.0\Assignment 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\CodeCamp\Assignment 2\obj\Debug\net10.0\Assignment 2.AssemblyInfoInputs.cache
+D:\Projects\CodeCamp\Assignment 2\obj\Debug\net10.0\Assignment 2.AssemblyInfo.cs
+D:\Projects\CodeCamp\Assignment 2\obj\Debug\net10.0\Assignment 2.csproj.CoreCompileInputs.cache
+D:\Projects\CodeCamp\Assignment 2\obj\Debug\net10.0\Assignment 2.sourcelink.json
+D:\Projects\CodeCamp\Assignment 2\obj\Debug\net10.0\Assignment 2.dll
+D:\Projects\CodeCamp\Assignment 2\obj\Debug\net10.0\refint\Assignment 2.dll
+D:\Projects\CodeCamp\Assignment 2\obj\Debug\net10.0\Assignment 2.pdb
+D:\Projects\CodeCamp\Assignment 2\obj\Debug\net10.0\Assignment 2.genruntimeconfig.cache
+D:\Projects\CodeCamp\Assignment 2\obj\Debug\net10.0\ref\Assignment 2.dll
